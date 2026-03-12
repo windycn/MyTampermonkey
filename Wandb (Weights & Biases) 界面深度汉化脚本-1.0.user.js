@@ -7,7 +7,7 @@
 // @description  将 Weights & Biases (wandb.ai) 的 UI 界面汉化为中文，翻译字典可自定义。
 // @description:en Translates the Weights & Biases UI into Chinese while preserving machine learning technical terms.
 // @author       Ye Xiao（叶筱）
-// @homepage     https://github.com/windycn
+// @homepage     https://github.com/windycn/MyTampermonkey
 // @match        *://wandb.ai/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=wandb.ai
 // @grant        none
